@@ -1,14 +1,12 @@
+
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Dart & Flutter",
-            "request": "launch",
+            "name": "Run Employee Salary",
             "type": "dart",
-            "program": "main.dart",
+            "request": "launch",
+            "program": "${workspaceFolder}/LAB EXERCISE 2.1/main.dart"
         }
     ]
 }
