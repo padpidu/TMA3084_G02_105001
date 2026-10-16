@@ -1,0 +1,6 @@
+
+Connecting to VM Service at ws://127.0.0.1:55163/gG_fl8FIciU=/ws
+Connected to the VM Service.
+Total Salary = $5070.0 USD
+
+Exited.
